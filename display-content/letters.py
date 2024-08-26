@@ -449,12 +449,6 @@ letters = {
           [0,0,0,0,0,0,0]]
 
 
-# To access the array for letter 'A', you can use letters['A']
-
-          
-
-    # Define arrays for other letters here
-    # ...
 }
 
 # Constants for LED matrix size
